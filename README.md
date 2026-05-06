@@ -22,21 +22,20 @@
   <!-- Github -->
   <p>
     <a href="https://www.github.com/Ogustavone">
-      <img src="https://img.icons8.com/EFEFEF/ios_filled/2x/github.png" width="50" height="50"></a>
+      <img src="https://img.icons8.com/EFEFEF/ios_filled/2x/github.png" width="45px" height="45px"></a>
     <!-- Linkedin -->
     <a href="https://www.linkedin.com/in/ogustavone/">
-      <img src="https://img.icons8.com/ffffff/color/2x/linkedin.png" width="50" height="50"></a>
+      <img src="https://img.icons8.com/ffffff/color/2x/linkedin.png" width="50px" height="50px"></a>
     <!-- Instagram -->
     <a href="http://www.instagram.com/g1st4voo">
-      <img src="https://img.icons8.com/ffffff/fluent/2x/instagram-new.png" width="50" height="50"></a>
+      <img src="https://img.icons8.com/ffffff/fluent/2x/instagram-new.png" width="50px" height="50px"></a>
   </p>
 </div> <br>
 <!-- Stack -->
 <div align="left">
   <h3>
     — &nbsp;&nbsp;Stack
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" width="32" 
-    height="32" align="center"/>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" width="32px" height="32px" align="center"/>
   </h3>
 
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)

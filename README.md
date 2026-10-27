@@ -20,6 +20,8 @@
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" width="32px" height="32px" align="center"/>
   </h3>
   <p>
+    <a href="https://www.gscorrea.com.br">
+      <img src="https://img.icons8.com/?size=100&id=53372&format=png&color=00a8ff" width="45px" height="45px"></a>
     <a href="https://www.github.com/Ogustavone">
       <img src="https://img.icons8.com/EFEFEF/ios_filled/2x/github.png" width="45px" height="45px"></a>
     <a href="https://www.linkedin.com/in/ogustavone/">
